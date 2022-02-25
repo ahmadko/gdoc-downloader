@@ -1,7 +1,7 @@
 # gdoc-downloader
 Download any GDrive document: HTML, Word, Excelsheet, Presentation.
 
-This function can download any GDrive document: HTML, Word, Excelsheets, and Presentations
+This function can download any GDrive document: HTML, Word, Spreadsheets, and Presentations
 
 Google Workspace documents and corresponding export MIME types:
 https://developers.google.com/drive/api/v3/ref-export-formats
